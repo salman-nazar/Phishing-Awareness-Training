@@ -7,7 +7,7 @@ This project educates users about phishing attacks through awareness content and
 ## Features
 
 - Phishing Education
-- Email Scam Awareness
+- Email Scam Awareness 
 - URL Verification Tips
 - Interactive Quiz
 
