@@ -1,0 +1,14 @@
+[
+  {
+    "question": "You receive an email asking for your password. Is it safe?",
+    "answer": "no"
+  },
+  {
+    "question": "Should you verify website URLs before login?",
+    "answer": "yes"
+  },
+  {
+    "question": "Is clicking unknown links recommended?",
+    "answer": "no"
+  }
+]
